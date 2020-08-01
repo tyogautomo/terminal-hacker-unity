@@ -1,5 +1,5 @@
 # Terminal Hacker
-Link to my game: [Terminal Hacker](https://sharemygame.com/@tyogautomo/terminal-hacker)
+Link to my game: [Terminal Hacker](https://i.simmer.io/@tyogautomo/terminal-hacker)
 
 Develop a game is quite challenging and fun at once for me, it needs a lot of creativity and a bunch of logic to make people are challenged playing our game.
 This project is mainly purpose for learning C# basic scripting and logic in Unity, not the design and graphic.
